@@ -1,0 +1,4 @@
+$ go run hello_world.go
+	or
+$ go build hello_world.go
+$ ./hello_world

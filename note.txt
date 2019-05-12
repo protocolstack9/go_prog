@@ -1,0 +1,4 @@
+https://golangkorea.github.io/post/go-start/getting-start/
+
+$ go version
+go version go1.10.4 linux/amd64
